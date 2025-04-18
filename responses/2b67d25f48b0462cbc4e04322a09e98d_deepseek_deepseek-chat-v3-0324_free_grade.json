@@ -1,0 +1,9 @@
+{
+  "qid": "2b67d25f48b0462cbc4e04322a09e98d",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "If a train travels at 60 mph for 2.5 hours, how far does it travel?",
+  "response": "",
+  "timestamp": 1745007205.9584618
+}

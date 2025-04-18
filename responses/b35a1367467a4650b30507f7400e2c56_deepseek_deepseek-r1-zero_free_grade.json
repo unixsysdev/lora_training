@@ -1,0 +1,9 @@
+{
+  "qid": "b35a1367467a4650b30507f7400e2c56",
+  "model": "deepseek/deepseek-r1-zero:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "The average of five numbers is 12. If four of the numbers are 10, 14, 8, and 16, what is the fifth number?",
+  "response": "\\boxed{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly solves for the fifth number by first finding the total sum needed for an average of 12 for five numbers (which is $60$), then finding the sum of the given four numbers (which is $48$), and finally finding the fifth number by subtracting the sum of the given four numbers from the total sum needed. The reasoning is clear, accurate, and well-explained.\"\n}",
+  "timestamp": 1745006733.79259
+}

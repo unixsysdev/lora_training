@@ -1,0 +1,9 @@
+{
+  "qid": "27a32595d07b4e3d8bbaac39450cd3cd",
+  "model": "deepseek/deepseek-r1-zero:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "Jane has $45 and spends 2/5 of it. How much money does she have left?",
+  "response": "\\boxed{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly calculates that Jane spends $18 (2/5 of $45) and thus has $27 left. Another valid reasoning is also provided where it is shown that spending 2/5 means she has 3/5 of her money left, which is also correctly calculated as $27. The reasoning is clear and the answer is correct.\"\n}",
+  "timestamp": 1745006686.0274906
+}

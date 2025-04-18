@@ -1,0 +1,9 @@
+{
+  "qid": "77085ccacc624555b0f2143f28729593",
+  "model": "deepseek/deepseek-v3-base:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "Simplify: (2x³y²)/(4xy) when x = 2 and y = 3",
+  "response": "\n",
+  "timestamp": 1745007600.9123902
+}

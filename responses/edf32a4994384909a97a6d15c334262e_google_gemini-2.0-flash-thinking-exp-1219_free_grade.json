@@ -1,0 +1,9 @@
+{
+  "qid": "edf32a4994384909a97a6d15c334262e",
+  "model": "google/gemini-2.0-flash-thinking-exp-1219:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If a train travels at 60 mph for 2.5 hours, how far does it travel?",
+  "response": "```json\n{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and comprehensive. It correctly identifies the formula (Distance = Speed × Time), uses the given values appropriately, performs the calculation accurately, and states the correct answer with units. The reasoning is sound and easy to follow.\"\n}\n```",
+  "timestamp": 1745007446.677423
+}

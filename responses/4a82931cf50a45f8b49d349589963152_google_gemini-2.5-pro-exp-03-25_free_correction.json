@@ -1,0 +1,9 @@
+{
+  "qid": "4a82931cf50a45f8b49d349589963152",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "A bag contains 4 red marbles, 5 blue marbles, and 6 green marbles. What is the probability of drawing a blue marble?",
+  "response": "",
+  "timestamp": 1745007194.7802536
+}

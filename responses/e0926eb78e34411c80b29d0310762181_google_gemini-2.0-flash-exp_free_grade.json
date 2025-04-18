@@ -1,0 +1,9 @@
+{
+  "qid": "e0926eb78e34411c80b29d0310762181",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If x² - 5x + 6 = 0, what are the values of x?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-reasoned. It correctly factors the quadratic equation and finds the correct solutions for x.\"\n}",
+  "timestamp": 1745006708.2421162
+}

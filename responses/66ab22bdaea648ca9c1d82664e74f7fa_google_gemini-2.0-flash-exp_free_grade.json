@@ -1,0 +1,9 @@
+{
+  "qid": "66ab22bdaea648ca9c1d82664e74f7fa",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If we know that p → q is true, and q is false, what can we say about p?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and comprehensive. It correctly explains the material conditional and uses it to deduce that p must be false when p → q is true and q is false. The reasoning is well-structured and easy to follow.\"\n}",
+  "timestamp": 1745007775.6131256
+}

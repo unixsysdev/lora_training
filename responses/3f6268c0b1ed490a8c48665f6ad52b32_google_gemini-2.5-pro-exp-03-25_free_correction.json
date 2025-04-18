@@ -1,0 +1,9 @@
+{
+  "qid": "3f6268c0b1ed490a8c48665f6ad52b32",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "All squares are rectangles. Some rectangles are not squares. Are all rectangles squares? Justify your answer.",
+  "response": "",
+  "timestamp": 1745007811.8658352
+}

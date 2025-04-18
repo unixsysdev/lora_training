@@ -1,0 +1,9 @@
+{
+  "qid": "8f87282dde724121bd2aa6a20dd36da1",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If a = 3 and b = 5, what is 2a² + 3b?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-organized. It provides a step-by-step solution that is easy to follow and understand. The final answer is correct.\"\n}",
+  "timestamp": 1745006747.7945797
+}

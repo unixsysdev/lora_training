@@ -1,0 +1,9 @@
+{
+  "qid": "c40eafce19d84902bb7e878e4004b138",
+  "model": "deepseek/deepseek-r1-zero:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "Solve for y: 3y - 7 = 14",
+  "response": "",
+  "timestamp": 1745007584.7124972
+}

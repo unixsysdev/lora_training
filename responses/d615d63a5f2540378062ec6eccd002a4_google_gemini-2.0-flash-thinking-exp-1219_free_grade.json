@@ -1,0 +1,9 @@
+{
+  "qid": "d615d63a5f2540378062ec6eccd002a4",
+  "model": "google/gemini-2.0-flash-thinking-exp-1219:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "Solve the system: 2x + y = 7, 3x - 2y = 8",
+  "response": "",
+  "timestamp": 1745006823.1373265
+}

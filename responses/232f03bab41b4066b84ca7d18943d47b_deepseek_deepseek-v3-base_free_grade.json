@@ -1,0 +1,9 @@
+{
+  "qid": "232f03bab41b4066b84ca7d18943d47b",
+  "model": "deepseek/deepseek-v3-base:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "What is 15% of 240?",
+  "response": "",
+  "timestamp": 1745007132.6366708
+}

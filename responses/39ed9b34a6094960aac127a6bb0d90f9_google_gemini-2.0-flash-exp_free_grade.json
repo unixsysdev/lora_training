@@ -1,0 +1,9 @@
+{
+  "qid": "39ed9b34a6094960aac127a6bb0d90f9",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "Jane has $45 and spends 2/5 of it. How much money does she have left?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-reasoned. It provides a step-by-step solution to the problem, explaining each step in detail. The calculations are correct, and the final answer is accurate. The response is also well-organized and easy to follow.\"\n}",
+  "timestamp": 1745007121.5758014
+}

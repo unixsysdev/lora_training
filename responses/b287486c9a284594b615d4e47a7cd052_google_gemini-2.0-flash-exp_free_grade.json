@@ -1,0 +1,9 @@
+{
+  "qid": "b287486c9a284594b615d4e47a7cd052",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "Explain the concept of machine learning in one sentence.",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response accurately and comprehensively explains machine learning in one sentence.\"\n}",
+  "timestamp": 1745006038.824423
+}

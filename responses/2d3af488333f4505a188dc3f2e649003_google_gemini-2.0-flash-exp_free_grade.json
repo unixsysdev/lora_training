@@ -1,0 +1,9 @@
+{
+  "qid": "2d3af488333f4505a188dc3f2e649003",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If f(x) = 2x² - 3x + 1, what is f(2)?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-reasoned. The steps are easy to follow and the final answer is correct.\"\n}",
+  "timestamp": 1745006838.9150188
+}

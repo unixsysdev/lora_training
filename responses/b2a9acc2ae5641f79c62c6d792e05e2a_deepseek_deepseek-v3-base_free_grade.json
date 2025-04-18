@@ -1,0 +1,9 @@
+{
+  "qid": "b2a9acc2ae5641f79c62c6d792e05e2a",
+  "model": "deepseek/deepseek-v3-base:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "If a square has a perimeter of 20 cm, what is its area?",
+  "response": "",
+  "timestamp": 1745007553.7161026
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "7ac35af302c34c48ada53f20493afac6",
+  "model": "deepseek/deepseek-r1-zero:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "All mammals are warm-blooded. Some warm-blooded animals lay eggs. Can all mammals lay eggs? Explain your reasoning.",
+  "response": "",
+  "timestamp": 1745007823.0368834
+}

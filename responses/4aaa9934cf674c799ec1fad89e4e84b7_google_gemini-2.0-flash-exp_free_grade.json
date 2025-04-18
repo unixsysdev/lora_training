@@ -1,0 +1,9 @@
+{
+  "qid": "4aaa9934cf674c799ec1fad89e4e84b7",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "What is 15% of 240?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-structured. It provides a step-by-step explanation of how to calculate the percentage and arrives at the correct answer.\"\n}",
+  "timestamp": 1745006689.521975
+}

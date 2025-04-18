@@ -1,0 +1,9 @@
+{
+  "qid": "485a30e083b04aaebcaebeeed828bf45",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "In a town, all people either always tell the truth or always lie. Someone says, \"I am a liar.\" What can you conclude?",
+  "response": "",
+  "timestamp": 1745007869.6620917
+}

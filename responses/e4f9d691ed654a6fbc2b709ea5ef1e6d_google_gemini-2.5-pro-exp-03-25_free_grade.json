@@ -1,0 +1,9 @@
+{
+  "qid": "e4f9d691ed654a6fbc2b709ea5ef1e6d",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "A recipe requires 2.5 cups of flour to make 20 cookies. How much flour is needed for 35 cookies?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly identifies the proportional relationship, sets up the proportion accurately, performs the calculations correctly, and provides a clear and easy-to-follow explanation. The final answer is accurate.\"\n}",
+  "timestamp": 1745007514.5560966
+}

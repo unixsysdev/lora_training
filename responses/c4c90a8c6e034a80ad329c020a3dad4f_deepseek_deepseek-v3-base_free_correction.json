@@ -1,0 +1,9 @@
+{
+  "qid": "c4c90a8c6e034a80ad329c020a3dad4f",
+  "model": "deepseek/deepseek-v3-base:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "A car depreciates by 12% each year. If it costs $25,000 new, what will its value be after 3 years?",
+  "response": "\n\nSure, I'd be happy to help you with that! Here's a step-by-step solution to the problem:\n\n1. The car depreciates by 12% each year, which means that its value decreases by 12% of its original value each year.\n\n2. To find the value of the car after 3 years, we need to calculate the depreciation for each year and subtract it from the original value.\n\n3. The depreciation for the first year is 12% of $25,000, which is $3,000. So, the value of the car after the first year is $25,000 - $3,000 = $22,000.\n\n4. The depreciation for the second year is 12% of $22,000, which is $2,640. So, the value of the car after the second year is $22,000 - $2,640 = $19,360.\n\n5. The depreciation for the third year is 12% of $19,360, which is $2,323.20. So, the value of the car after the third year is $19,360 - $2,323.20 = $17,036.80.\n\nTherefore, the value of the car after 3 years will be $17,036.80.\n\nI hope this helps! Let me know if you have any further questions.",
+  "timestamp": 1745007157.9144487
+}

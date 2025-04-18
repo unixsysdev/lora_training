@@ -1,0 +1,9 @@
+{
+  "qid": "2e8f90f691264a44acd6a2e64293392d",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "Expand: (2x - 3)³",
+  "response": "",
+  "timestamp": 1745007826.5152164
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "0c9ce9e12f9446199ab6e581d63f6715",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "If 4(x + 3) = 28, what is x?",
+  "response": "",
+  "timestamp": 1745006718.9177125
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "eecf23e15a54482f969b8fe080346525",
+  "model": "deepseek/deepseek-r1-zero:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "A boat travels upstream at 8 mph and downstream at 12 mph. What is the speed of the current?",
+  "response": "\\boxed{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly identifies the given problem and uses a well-reasoned process to solve for the speed of the current. The reasoning is clear and the answer is accurate.\"\n}",
+  "timestamp": 1745007671.9730525
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "7e08d935432f4669a46cc2bdd2fd6049",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "Evaluate: ∫(2x + 3)dx from x=1 to x=4",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-structured. It correctly calculates the definite integral of the given function over the specified interval. The steps are easy to follow and the final answer is correct.\"\n}",
+  "timestamp": 1745007669.2141545
+}

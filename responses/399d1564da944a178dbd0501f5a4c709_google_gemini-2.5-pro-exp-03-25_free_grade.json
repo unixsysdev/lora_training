@@ -1,0 +1,9 @@
+{
+  "qid": "399d1564da944a178dbd0501f5a4c709",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "If A or B is true, and A is false, what can we conclude about B?",
+  "response": "",
+  "timestamp": 1745007912.3681986
+}

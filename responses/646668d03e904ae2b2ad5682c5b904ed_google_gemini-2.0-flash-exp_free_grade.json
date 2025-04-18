@@ -1,0 +1,9 @@
+{
+  "qid": "646668d03e904ae2b2ad5682c5b904ed",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "A bag contains 4 red marbles, 5 blue marbles, and 6 green marbles. What is the probability of drawing a blue marble?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-reasoned. It correctly identifies the number of blue marbles and the total number of marbles, and then calculates the probability of drawing a blue marble. The final answer is also correct and expressed in both fraction and percentage forms.\"\n}",
+  "timestamp": 1745007543.578257
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "a21c873f8f414c2c97c7410a9cdad5fc",
+  "model": "google/gemini-2.0-flash-thinking-exp-1219:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "The average of five numbers is 12. If four of the numbers are 10, 14, 8, and 16, what is the fifth number?",
+  "response": "```json\n{\n  \"score\": 10,\n  \"reasoning\": \"The response is completely correct and clearly explains each step to arrive at the solution. The calculations are accurate and the reasoning is easy to follow. The final answer is correct and clearly presented.\"\n}\n```",
+  "timestamp": 1745007523.4815729
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "81a1a82b1f044e109e8a88c2b4e9f366",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If the ratio of boys to girls in a class is 3:5, and there are 24 boys, how many students are in the class?",
+  "response": "```json\n{\n  \"score\": 10,\n  \"reasoning\": \"The response accurately follows the steps to solve the problem using the given ratio. It clearly explains each step, from determining the total parts in the ratio to calculating the value of one part and then the total number of students. The reasoning is comprehensive and correct, leading to the right answer.\"\n}\n```",
+  "timestamp": 1745007469.445462
+}

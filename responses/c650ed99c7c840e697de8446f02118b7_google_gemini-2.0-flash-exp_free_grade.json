@@ -1,0 +1,9 @@
+{
+  "qid": "c650ed99c7c840e697de8446f02118b7",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "Find the midpoint of the line segment from (2, -5) to (8, 3)",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and well-organized. It correctly applies the midpoint formula and arrives at the correct answer. The steps are easy to follow.\"\n}",
+  "timestamp": 1745007733.9656482
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "1e748f24095d4592ab6fa5df092b2dd8",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "The half-life of a radioactive substance is 12 years. What percentage remains after 36 years?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly identifies the given parameters (half-life and time elapsed), accurately calculates the number of half-lives that have passed, and correctly determines the remaining percentage based on the definition of half-life. The explanation is clear, logical, and directly answers the prompt.\"\n}",
+  "timestamp": 1745007637.085574
+}

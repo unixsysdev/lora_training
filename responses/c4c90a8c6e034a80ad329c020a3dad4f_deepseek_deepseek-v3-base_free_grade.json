@@ -1,0 +1,9 @@
+{
+  "qid": "c4c90a8c6e034a80ad329c020a3dad4f",
+  "model": "deepseek/deepseek-v3-base:free",
+  "type": "grade",
+  "score": 5,
+  "prompt": "A car depreciates by 12% each year. If it costs $25,000 new, what will its value be after 3 years?",
+  "response": "",
+  "timestamp": 1745007147.6171324
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "0d4281d55fb34af6bd9a631f5b17dc5e",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "Explain the concept of machine learning in one sentence.",
+  "response": "Machine learning is a subset of artificial intelligence that enables systems to automatically learn and improve from experience without being explicitly programmed by identifying patterns in data.  \n\n*(This definition captures the core idea—learning from data, adaptation, and autonomy—while remaining concise.)*",
+  "timestamp": 1745006705.61632
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "fdbe11c8a2804facac7c185b598387a0",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If a car travels 150 miles on 5 gallons of gas, how far can it go on 8 gallons?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response is accurate, clear, and provides a step-by-step solution to the problem. The reasoning is sound and easy to follow.\"\n}",
+  "timestamp": 1745006783.9681628
+}

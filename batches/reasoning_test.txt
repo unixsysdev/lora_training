@@ -1,0 +1,100 @@
+If a train travels at 60 mph for 2.5 hours, how far does it travel?
+A rectangle has a length of 12 cm and a width of 8 cm. What is its area?
+If 3x + 5 = 20, what is the value of x?
+Jane has $45 and spends 2/5 of it. How much money does she have left?
+If the ratio of boys to girls in a class is 3:5, and there are 24 boys, how many students are in the class?
+What is 15% of 240?
+If a shirt originally costs $40 and is on sale for 30% off, what is the sale price?
+A car depreciates by 12% each year. If it costs $25,000 new, what will its value be after 3 years?
+If x² - 5x + 6 = 0, what are the values of x?
+A recipe requires 2.5 cups of flour to make 20 cookies. How much flour is needed for 35 cookies?
+If 4(x + 3) = 28, what is x?
+The average of five numbers is 12. If four of the numbers are 10, 14, 8, and 16, what is the fifth number?
+A pizza is cut into 8 equal slices. If 3 people each eat 2 slices, how many slices remain?
+If a = 3 and b = 5, what is 2a² + 3b?
+What is the next number in the sequence: 2, 6, 12, 20, 30, ...?
+A bag contains 4 red marbles, 5 blue marbles, and 6 green marbles. What is the probability of drawing a blue marble?
+If a square has a perimeter of 20 cm, what is its area?
+Solve for y: 3y - 7 = 14
+If a car travels 150 miles on 5 gallons of gas, how far can it go on 8 gallons?
+What is the product of the roots of the equation x² - 6x + 8 = 0?
+If log₂(x) = 3, what is x?
+A cylinder has a radius of 4 cm and a height of 10 cm. What is its volume?
+Simplify: (2x³y²)/(4xy) when x = 2 and y = 3
+If sin(θ) = 0.6, what is cos(θ)?
+Solve the system: 2x + y = 7, 3x - 2y = 8
+What is the sum of the interior angles of a hexagon?
+The half-life of a radioactive substance is 12 years. What percentage remains after 36 years?
+If f(x) = 2x² - 3x + 1, what is f(2)?
+Find the derivative of y = x³ - 4x² + 2x - 7
+If a triangle has sides of lengths 3, 4, and 5, what is its area?
+A boat travels upstream at 8 mph and downstream at 12 mph. What is the speed of the current?
+Evaluate: ∫(2x + 3)dx from x=1 to x=4
+What is the distance between the points (3, 4) and (-2, 8)?
+If a fair die is rolled twice, what is the probability of rolling a sum greater than 9?
+Simplify: (5/6) ÷ (2/3) × (4/5)
+The population of a town increases by 5% each year. If the current population is 10,000, what will it be in 3 years?
+What is the value of tan(45°)?
+If A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, what is A ∩ B?
+Expand: (2x - 3)³
+Find the midpoint of the line segment from (2, -5) to (8, 3)
+If all A are B, and some B are C, can we conclude that some A are C?
+If it's not true that "all birds can fly," what can we logically conclude?
+In a town, all people either always tell the truth or always lie. Someone says, "I am a liar." What can you conclude?
+If we know that p → q is true, and q is false, what can we say about p?
+All mammals are warm-blooded. Some warm-blooded animals lay eggs. Can all mammals lay eggs? Explain your reasoning.
+If "if it rains, then the ground is wet" is true, and the ground is wet, can we conclude that it rained?
+James says, "If I study, I will pass the test." James didn't pass the test. What can we logically conclude?
+All squares are rectangles. Some rectangles are not squares. Are all rectangles squares? Justify your answer.
+If X > Y and Y > Z, what is the relationship between X and Z?
+If it's false that "either I go shopping or I clean the house," what must be true?
+If A implies B, and B implies C, what can we say about the relationship between A and C?
+Smith, Jones, and Clark are a doctor, a lawyer, and an engineer, though not necessarily in that order. Smith is not the engineer. Jones is not the doctor. Who has which profession?
+If Alice is taller than Bob, and Bob is taller than Charlie, is Alice necessarily taller than Charlie? Why or why not?
+If it's raining, then the sidewalk is wet. The sidewalk is wet. Must it be raining? Explain.
+All dogs have four legs. Fido has four legs. Is Fido necessarily a dog? Explain your reasoning.
+If no A is B, and all B are C, what can we conclude about the relationship between A and C?
+In a race, Jane finished before Kim, and Kim finished before Lisa. Did Jane necessarily finish before Lisa?
+If "not all birds can fly" is true, what does this tell us about flying birds?
+If A or B is true, and A is false, what can we conclude about B?
+If "if p, then q" is true, and p is true, what can we conclude?
+A store sells notebooks for $2 each and pens for $1.50 each. If you bought 5 items for $8.50, how many of each did you buy?
+A train leaves Station A at 2:00 PM traveling at 60 mph. Another train leaves Station B at 3:30 PM traveling at 90 mph toward Station A. If the stations are 300 miles apart, at what time will the trains meet?
+Jack can paint a house in 6 days, while Jill can paint it in 8 days. How long would it take them to paint the house working together?
+A water tank is 2/3 full. If 20 gallons are added, it becomes 3/4 full. What is the capacity of the tank?
+If it takes 8 workers 10 days to build a wall, how long would it take 5 workers to build the same wall?
+At a party, everyone shook hands with everyone else exactly once. If there were 45 handshakes total, how many people were at the party?
+A retailer buys a shirt for $15 and marks it up by 60%. During a sale, the shirt is discounted by 25%. What is the final sale price?
+Two cars start at the same point and drive in opposite directions. One drives at 45 mph and the other at 60 mph. How long will it take for them to be 210 miles apart?
+A recipe calls for a ratio of flour to sugar of 3:2. If you use 12 cups of flour, how many cups of sugar do you need?
+A family ate 3/5 of a pizza on Monday and 1/4 of the remainder on Tuesday. What fraction of the original pizza remained after Tuesday?
+A factory produces 3000 units in 6 days with 10 workers. How many units can it produce in 8 days with 15 workers?
+A rectangular garden has a perimeter of 60 feet and an area of 216 square feet. What are its dimensions?
+If 12 workers can complete a project in 10 days working 8 hours per day, how many days would it take 8 workers working 10 hours per day to complete the same project?
+The price of a car increased by 20% to $30,000. What was the original price?
+A company's profit increased by 15% in 2023 and then decreased by 10% in 2024. If the final profit was $124,200, what was the profit before these changes?
+Water flows into a tank at a rate of 10 gallons per minute, while it drains at 6 gallons per minute. If the tank initially contains 100 gallons, how long will it take to fill the 500-gallon tank?
+In an election, 60% of eligible voters voted, and 55% of those who voted chose Candidate A. What percentage of eligible voters chose Candidate A?
+A boat travels 24 miles downstream in 2 hours and returns upstream in 3 hours. What is the speed of the boat in still water?
+A solution contains 20% acid. How much pure acid should be added to 50 liters of this solution to increase the concentration to 30%?
+If a wheel makes 1000 revolutions traveling 1 mile, what is the diameter of the wheel?
+In how many ways can 7 people be seated in a row if 2 specific people must sit next to each other?
+What is the expected number of coin flips needed to get 3 consecutive heads?
+A fair six-sided die is rolled twice. What is the probability that the second roll is strictly greater than the first roll?
+In a group of 30 people, 18 drink coffee, 15 drink tea, and 5 drink neither. How many people drink both coffee and tea?
+Solve for x: log₃(x) + log₃(x+6) = 2
+A sphere is inscribed in a cube with side length 10 cm. What is the volume of the sphere?
+Five cards are drawn from a standard 52-card deck. What is the probability of drawing exactly three hearts?
+Consider a right triangle with hypotenuse 17 and one leg of length 8. What is the length of the other leg?
+If f(x) = 3x - 2 and g(x) = x² + 1, find f(g(2)).
+A fair coin is flipped 8 times. What is the probability of getting exactly 5 heads?
+Find all values of x that satisfy: |2x - 3| + |x + 1| = 5
+In a group of 40 students, 25 take mathematics, 20 take physics, and 10 take both subjects. How many students take neither subject?
+What is the sum of the infinite geometric series: 4 + 2 + 1 + 1/2 + ...?
+In how many ways can 5 distinct books be arranged on a shelf?
+Find the area of the region bounded by y = x², y = 0, x = 0, and x = 3.
+A bag contains 5 red balls and 3 blue balls. Two balls are drawn without replacement. What is the probability that both are the same color?
+What is the value of x that maximizes the function f(x) = -x² + 6x - 5?
+Three fair six-sided dice are rolled. What is the probability that the sum of the rolls equals 10?
+Find all solutions to the equation: sin(2x) = sin(x) for 0 ≤ x < 2π
+A game show contestant can choose one of three doors. Behind one door is a car; behind the others are goats. After the contestant picks a door, the host (who knows where the car is) opens one of the other doors to reveal a goat. Should the contestant switch to the remaining door or stay with their original choice? Explain.

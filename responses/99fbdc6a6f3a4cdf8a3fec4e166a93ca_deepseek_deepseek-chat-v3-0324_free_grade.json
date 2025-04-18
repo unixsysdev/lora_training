@@ -1,0 +1,9 @@
+{
+  "qid": "99fbdc6a6f3a4cdf8a3fec4e166a93ca",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "If a train travels at 60 mph for 2.5 hours, how far does it travel?",
+  "response": "```json\n{\n  \"score\": 10,\n  \"reasoning\": \"The response accurately applies the correct formula (Distance = Speed × Time), clearly presents the calculation steps, and arrives at the correct answer of 150 miles. The explanation is comprehensive and easy to follow.\"\n}\n```",
+  "timestamp": 1745006664.321564
+}

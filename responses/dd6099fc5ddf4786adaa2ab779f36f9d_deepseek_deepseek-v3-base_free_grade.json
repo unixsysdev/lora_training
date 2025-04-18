@@ -1,0 +1,9 @@
+{
+  "qid": "dd6099fc5ddf4786adaa2ab779f36f9d",
+  "model": "deepseek/deepseek-v3-base:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "A pizza is cut into 8 equal slices. If 3 people each eat 2 slices, how many slices remain?",
+  "response": "JSON:\n{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly calculates the number of slices eaten and subtracts it from the total to find the remaining slices.\"\n}",
+  "timestamp": 1745007174.246471
+}

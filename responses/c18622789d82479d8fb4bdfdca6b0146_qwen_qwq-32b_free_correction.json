@@ -1,0 +1,9 @@
+{
+  "qid": "c18622789d82479d8fb4bdfdca6b0146",
+  "model": "qwen/qwq-32b:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+  "response": "The next number in the sequence **2, 6, 12, 20, 30, ...** is **42**.\n\n### Explanation:\n1. **Method 1: Analyzing Differences**  \n   Calculate the differences between consecutive terms:\n   - \\(6 - 2 = 4\\)  \n   - \\(12 - 6 = 6\\)  \n   - \\(20 - 12 = 8\\)  \n   - \\(30 - 20 = 10\\)  \n\n   The differences form an arithmetic sequence: **4, 6, 8, 10**, increasing by **2** each time.  \n   The next difference is \\(10 + 2 = 12\\).  \n   Adding this to the last term:  \n   \\(30 + 12 = \\boxed{42}\\).\n\n2. **Method 2: Formula Identification**  \n   Observe that each term can be expressed as **\\(n \\times (n + 1)\\)** where \\(n\\) starts at 1:  \n   - \\(1 \\times 2 = 2\\)  \n   - \\(2 \\times 3 = 6\\)  \n   - \\(3 \\times 4 = 12\\)  \n   - \\(4 \\times 5 = 20\\)  \n   - \\(5 \\times 6 = 30\\)  \n\n   For the next term (\\(n = 6\\)):  \n   \\(6 \\times 7 = \\boxed{42}\\).\n\n3. **Quadratic Sequence Verification**  \n   Since the second differences are constant (\\(2\\)), the sequence is quadratic. The general formula is \\(n^2 + n\\), confirming the result above.\n\n### Conclusion:\nBoth methods consistently lead to **42** as the next term. The sequence follows the pattern of **\\(n(n + 1)\\)**, making **42**",
+  "timestamp": 1745007565.4856813
+}

@@ -1,0 +1,9 @@
+{
+  "qid": "7b83d9f42d7246d3a507ceb7f0fa8b3c",
+  "model": "google/gemini-2.0-flash-exp:free",
+  "type": "grade",
+  "score": 10,
+  "prompt": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+  "response": "{\n  \"score\": 10,\n  \"reasoning\": \"The response correctly identifies the pattern in the sequence and accurately calculates the next number. The explanation is clear and easy to follow.\"\n}",
+  "timestamp": 1745006751.1171875
+}

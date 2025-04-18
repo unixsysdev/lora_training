@@ -1,0 +1,9 @@
+{
+  "qid": "e41b8c196cd04247a57855964cbaaff1",
+  "model": "google/gemini-2.5-pro-exp-03-25:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "If 3x + 5 = 20, what is the value of x?",
+  "response": "",
+  "timestamp": 1745006673.138053
+}

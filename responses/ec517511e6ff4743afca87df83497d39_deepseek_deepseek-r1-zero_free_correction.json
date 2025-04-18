@@ -1,0 +1,9 @@
+{
+  "qid": "ec517511e6ff4743afca87df83497d39",
+  "model": "deepseek/deepseek-r1-zero:free",
+  "type": "correction",
+  "score": null,
+  "prompt": "If it's not true that \"all birds can fly,\" what can we logically conclude?",
+  "response": "",
+  "timestamp": 1745007809.0196972
+}
