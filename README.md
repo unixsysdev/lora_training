@@ -1,6 +1,6 @@
 # Continuous Learning Lab
 
-A professional implementation of a continuous learning system using LoRA fine-tuning with a teacher-student architecture.
+A implementation of a continuous learning system using LoRA fine-tuning with a teacher-student architecture.
 
 ## Overview
 
