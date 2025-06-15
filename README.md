@@ -1,4 +1,5 @@
 # Continuous Learning Lab
+P*I*M*M
 
 An implementation of a continuous learning system using LoRA fine-tuning with a teacher-student architecture.
 
